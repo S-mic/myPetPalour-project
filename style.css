@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(209, 139, 8);
+    background-color: black;
    /*transition: background-color 1s;*/
     text-align: center;
     justify-content: center;
@@ -9,7 +9,6 @@ body{
     border-radius: 12px;
     display: inline;
     margin: 5px;
-    border-color: #2ecc2e;
     display: flex;
     
     
@@ -17,7 +16,7 @@ body{
 
 }
 body:hover{
-   /* background-color: blue;*/
+   background-color:white;
 }
 img{
     width: 100px;
@@ -29,7 +28,7 @@ img{
 box-shadow:  0 5px rgba(0, 0, 0, 0.3);
 width: 400px;
 max-width: 100%;
-background-color: lightblue;
+background-color: pink;
 border-bottom: 1px solid #f0f0f0;
 padding: 20px 40px;
 
@@ -59,7 +58,7 @@ padding: 20px 40px;
     width: 100%;
     border-radius: 50px;*/
     cursor: pointer;
-    background-color: rgb(67, 177, 214);
+    background-color: rgb(139, 18, 38);
     box-shadow: #000;
     color: black;
     display: block;
@@ -69,4 +68,5 @@ padding: 20px 40px;
     padding: 5px;
     width: 100%;
     border-radius: 50px;
+    
 }

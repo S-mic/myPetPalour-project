@@ -16,7 +16,7 @@ body{
 
 }
 body:hover{
-   background-color:white;
+   background-color:rgb(226, 150, 8);
 }
 img{
     width: 100px;
@@ -65,8 +65,22 @@ padding: 20px 40px;
     font-size: 16px;
     font-weight: bold;
     margin: 1px 0 3px;
-    padding: 5px;
+    padding: 1px;
     width: 100%;
     border-radius: 50px;
     
+}
+.petpalour{
+    box-shadow: #000;
+border-radius: 50px;
+width: 100%;
+background-color:  rgb(139, 18, 38);
+padding: 1px;
+display: block;
+font-weight: bold;
+margin: 1px;
+
+}
+p{
+    font-weight: 100;
 }

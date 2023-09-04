@@ -12,6 +12,7 @@ body{
     display: flex;
     
     
+    
 
 
 }
@@ -20,7 +21,8 @@ body:hover{
 }
 img{
     width: 100px;
-    border-radius: 10px;
+    border-radius: 30px;
+    padding-bottom: 2px;
 }
 #frontpart{
     background-color: white;
@@ -79,6 +81,7 @@ padding: 1px;
 display: block;
 font-weight: bold;
 margin: 1px;
+
 
 }
 p{
